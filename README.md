@@ -1,4 +1,4 @@
-![CyberMindHacked by Mithun Rathod — aspiring penetration tester](assets/profile-banner.svg?v=2)
+![CyberMindHacked by Mithun Rathod — aspiring penetration tester](https://raw.githubusercontent.com/ns200bc5537/ns200bc5537/5e4fa4bb2cbe7aa2b55b96d2d1c6ba65d72be669/assets/profile-banner.svg)
 
 I’m Mithun. I document what I find in the Kioptrix labs and make short cybersecurity videos in everyday Hinglish.
 
