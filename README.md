@@ -1,18 +1,16 @@
 ![CyberMindHacked by Mithun Rathod — aspiring penetration tester](https://raw.githubusercontent.com/ns200bc5537/ns200bc5537/5e4fa4bb2cbe7aa2b55b96d2d1c6ba65d72be669/assets/profile-banner.svg)
 
-I’m Mithun. I document what I find in the Kioptrix labs and make short cybersecurity videos in everyday Hinglish.
+**[YouTube](https://www.youtube.com/@CyberMindHacked)**　·　**[Instagram](https://www.instagram.com/cybermindhaked/)**　·　**[Telegram](https://t.me/cybermindhacked)**　·　**[LinkedIn](https://www.linkedin.com/in/mithun-rathod-cybersec)**
 
-| Watch the channel | Explore the labs |
-| --- | --- |
-| Android permissions, privacy and practical security demos. | Service discovery, assessment findings and the evidence behind them. |
-| **[Watch CyberMindHacked ↗](https://www.youtube.com/@CyberMindHacked)** | **[Read the Kioptrix assessment ↗](https://github.com/ns200bc5537/kioptrix-level1-penetration-test)** |
+I’m Mithun Rathod, an aspiring penetration tester. I document what I find in the Kioptrix labs and explain Android privacy and cybersecurity in everyday Hinglish on CyberMindHacked.
 
-## Featured lab work
+## Selected lab reports
 
-| Assessment | Inside the write-up |
-| --- | --- |
-| [Kioptrix Level 1 · Full assessment](https://github.com/ns200bc5537/kioptrix-level1-penetration-test#key-findings) | I documented exposed services, missing HTTP security headers and anonymous SMB enumeration, then recorded evidence for the report. |
-| [Kioptrix Level 1.1 · Reconnaissance](https://github.com/ns200bc5537/kioptrix-level1.1-penetration-test#enumeration-highlights) | I mapped the exposed services and examined TLS settings, HTTP responses and SMB access. The write-up covers the discovery phase. |
+**[Kioptrix Level 1 · Full assessment](https://github.com/ns200bc5537/kioptrix-level1-penetration-test#key-findings)**  
+I documented which services were exposed, what an anonymous visitor could learn over SMB, and which HTTP security headers were missing.
+
+**[Kioptrix Level 1.1 · Reconnaissance](https://github.com/ns200bc5537/kioptrix-level1.1-penetration-test#enumeration-highlights)**  
+I mapped the host’s services, examined its TLS configuration and recorded the evidence behind each observation.
 
 <details>
 <summary><strong>Tools I used in these labs</strong></summary>
@@ -31,8 +29,3 @@ I’m Mithun. I document what I find in the Kioptrix labs and make short cyberse
 - **VAPT reporting** · Write findings that connect an observation to evidence, impact and a recommended fix.
 - **Web application testing** · Understand how an app checks which records a signed-in user can read or edit.
 - **Mobile application testing** · Trace how Android permissions affect the data an app can access.
-
-## Find me online
-
-)
-
