@@ -1,10 +1,10 @@
-![CyberMindHacked by Mithun Rathod — aspiring penetration tester](https://raw.githubusercontent.com/CyberMindHacked/CyberMindHacked/5e8af8c250277bc711b55cd7c9f5a88d86b27d25/assets/profile-banner.svg)
+![CyberMindHacked by Mithun Rathod — aspiring penetration tester](https://raw.githubusercontent.com/CyberMindHacked/CyberMindHacked/73c51abc661ba0be42fecd2f0583289ecac6847c/assets/profile-banner.svg)
 
-**[YouTube](https://www.youtube.com/@CyberMindHacked)**　·　**[Instagram](https://www.instagram.com/cybermindhaked/)**　·　**[Telegram](https://t.me/cybermindhacked)**　·　**[LinkedIn](https://www.linkedin.com/in/mithun-rathod-cybersec)**
+[![YouTube](https://img.shields.io/badge/YouTube-B51E26?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CyberMindHacked) [![Instagram](https://img.shields.io/badge/Instagram-9E326F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cybermindhaked/) [![Telegram](https://img.shields.io/badge/Telegram-176D96?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cybermindhacked) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiByeD0iMiIgZmlsbD0id2hpdGUiLz48cGF0aCBmaWxsPSIjMEE2NkMyIiBkPSJNNSA5aDN2MTFINXptMS41LTVhMS44IDEuOCAwIDEgMCAwIDMuNiAxLjggMS44IDAgMCAwIDAtMy42ek0xMCA5aDN2MS41QzE0IDggMjAgOCAyMCAxNHY2aC0zdi02YzAtMy00LTMtNCAwdjZoLTN6Ii8%2BPC9zdmc%2B&logoColor=white)](https://www.linkedin.com/in/mithun-rathod-cybersec)
 
 I’m Mithun Rathod, an aspiring penetration tester. I document what I find in the Kioptrix labs and explain Android privacy and cybersecurity in everyday Hinglish on CyberMindHacked.
 
-## Selected lab reports
+## 🔬 Selected lab reports
 
 **[Kioptrix Level 1 · Full assessment](https://github.com/CyberMindHacked/kioptrix-level1-penetration-test#key-findings)**  
 I documented which services were exposed, what an anonymous visitor could learn over SMB, and which HTTP security headers were missing.
@@ -13,7 +13,7 @@ I documented which services were exposed, what an anonymous visitor could learn 
 I mapped the host’s services, examined its TLS configuration and recorded the evidence behind each observation.
 
 <details>
-<summary><strong>Tools I used in these labs</strong></summary>
+<summary><strong>🧰 Tools I used in these labs</strong></summary>
 
 | Task | Tools |
 | --- | --- |
@@ -23,7 +23,7 @@ I mapped the host’s services, examined its TLS configuration and recorded the 
 
 </details>
 
-## What I'm learning
+## 🧭 What I'm learning
 
 - **Networking** · Follow a request from a DNS lookup through a TCP connection to the HTTP response.
 - **VAPT reporting** · Write findings that connect an observation to evidence, impact and a recommended fix.
