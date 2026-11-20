@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Location permission lab · CyberMindHacked</title>
+<style>html{color-scheme:dark;background:#081522;color:#e3f6fa;font:18px/1.6 system-ui}main{max-width:38rem;margin:10vh auto;padding:1.5rem}small{color:#84e4ed}button{font:inherit;padding:.55rem 1rem;margin:0 .5rem .5rem 0;border:1px solid #64cbd4;border-radius:.5rem;background:#123449;color:white}output{display:block;padding:1rem;border-left:3px solid #67d5df;background:#102739}</style>
+<main><small>CyberMindHacked / Privacy lab</small><h1>What does a location permission change?</h1><p>Choose a response to a simulated permission prompt. This model uses a fictional location and never requests device access.</p><button value="deny">Deny</button><button value="allow">Allow</button><output aria-live="polite">Waiting for your choice.</output><h2>Try it</h2><p>Choose Allow, then Deny. Notice that denying the next request cannot take back information already shared. Give an app location access only when its feature needs it.</p></main>
+<script>
+const output = document.querySelector('output');
+let previouslyShared = false;
+for (const button of document.querySelectorAll('button')) {
+  button.addEventListener('click', () => {
+    if (button.value === 'allow') {
+      previouslyShared = true;
+      output.textContent = 'Allowed. The demo app received the fictional location: North Park.';
+    } else {
+      output.textContent = previouslyShared ? 'Denied. No new location was shared. The app already saw North Park during the earlier request.' : 'Denied. The demo app has received no location.';
+    }
+  });
+}
+</script></html>
