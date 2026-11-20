@@ -4,6 +4,10 @@
 
 I’m Mithun Rathod, an aspiring penetration tester. I document what I find in the Kioptrix labs and explain Android privacy and cybersecurity in everyday Hinglish on CyberMindHacked.
 
+## 🎮 [Play Night Shift](https://htmlpreview.github.io/?https://github.com/CyberMindHacked/CyberMindHacked/blob/main/labs/night-shift.html)
+
+Take the incident desk for four fictional cases. Open the evidence files, make a decision, and review your shift handover.
+
 ## 🔬 Selected lab reports
 
 **[Kioptrix Level 1 · Full assessment](https://github.com/CyberMindHacked/kioptrix-level1-penetration-test#key-findings)**  
