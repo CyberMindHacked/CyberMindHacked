@@ -1,8 +1,11 @@
-![Mithun Rathod — Aspiring penetration tester](assets/profile-banner.svg)
+![CyberMindHacked by Mithun Rathod — aspiring penetration tester](assets/profile-banner.svg?v=2)
 
-## About me
+I’m Mithun. I document what I find in the Kioptrix labs and make short cybersecurity videos in everyday Hinglish.
 
-I practice penetration testing in the Kioptrix labs. I’m learning to turn a scan into a finding someone else can check. On **CyberMindHacked**, I explain cybersecurity in everyday Hinglish.
+| Watch the channel | Explore the labs |
+| --- | --- |
+| Android permissions, privacy and practical security demos. | Service discovery, assessment findings and the evidence behind them. |
+| **[Watch CyberMindHacked ↗](https://www.youtube.com/@CyberMindHacked)** | **[Read the Kioptrix assessment ↗](https://github.com/ns200bc5537/kioptrix-level1-penetration-test)** |
 
 ## Featured lab work
 
@@ -29,6 +32,7 @@ I practice penetration testing in the Kioptrix labs. I’m learning to turn a sc
 - **Web application testing** · Understand how an app checks which records a signed-in user can read or edit.
 - **Mobile application testing** · Trace how Android permissions affect the data an app can access.
 
-## CyberMindHacked
+## Find me online
 
 )
+
