@@ -1,4 +1,4 @@
-![CyberMindHacked by Mithun Rathod — aspiring penetration tester](https://raw.githubusercontent.com/CyberMindHacked/CyberMindHacked/5e4fa4bb2cbe7aa2b55b96d2d1c6ba65d72be669/assets/profile-banner.svg)
+![CyberMindHacked by Mithun Rathod — aspiring penetration tester](https://raw.githubusercontent.com/CyberMindHacked/CyberMindHacked/5e8af8c250277bc711b55cd7c9f5a88d86b27d25/assets/profile-banner.svg)
 
 **[YouTube](https://www.youtube.com/@CyberMindHacked)**　·　**[Instagram](https://www.instagram.com/cybermindhaked/)**　·　**[Telegram](https://t.me/cybermindhacked)**　·　**[LinkedIn](https://www.linkedin.com/in/mithun-rathod-cybersec)**
 
