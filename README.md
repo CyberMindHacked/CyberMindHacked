@@ -4,9 +4,11 @@
 
 I’m Mithun Rathod, an aspiring penetration tester. I document what I find in the Kioptrix labs and explain Android privacy and cybersecurity in everyday Hinglish on CyberMindHacked.
 
-## 📍 Try the location privacy lab
+## 📍 Location permission simulator
 
-What happens if you allow a location request and deny the next one? [Download the single-file simulator](https://github.com/CyberMindHacked/CyberMindHacked/raw/refs/heads/main/labs/location-permission.html), open it in your browser, and try both choices. It uses a fictional location and runs offline. [Read the source](https://github.com/CyberMindHacked/CyberMindHacked/blob/main/labs/location-permission.html).
+**[▶ Open the interactive demo](https://htmlpreview.github.io/?https://github.com/CyberMindHacked/CyberMindHacked/blob/main/labs/location-permission.html)**
+
+Choose **Allow**, then **Deny** to see what the demo remembers. It uses a fictional location.
 
 ## 🔬 Selected lab reports
 
