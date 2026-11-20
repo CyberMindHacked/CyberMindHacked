@@ -4,12 +4,6 @@
 
 I’m Mithun Rathod, an aspiring penetration tester. I document what I find in the Kioptrix labs and explain Android privacy and cybersecurity in everyday Hinglish on CyberMindHacked.
 
-## 📍 Location permission simulator
-
-**[▶ Open the interactive demo](https://htmlpreview.github.io/?https://github.com/CyberMindHacked/CyberMindHacked/blob/main/labs/location-permission.html)**
-
-Choose **Allow**, then **Deny** to see what the demo remembers. It uses a fictional location.
-
 ## 🔬 Selected lab reports
 
 **[Kioptrix Level 1 · Full assessment](https://github.com/CyberMindHacked/kioptrix-level1-penetration-test#key-findings)**  
