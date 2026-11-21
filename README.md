@@ -55,3 +55,32 @@ I make cybersecurity videos on CyberMindHacked. Subscribe and learn cybersecurit
 
 [Watch CyberMindHacked on YouTube](https://www.youtube.com/@CyberMindHacked)
 
+## 🎮 [Play Night Shift](https://cybermindhacked.github.io/CyberMindHacked/)
+
+Investigate four fictional incidents at the CyberMindHacked incident desk. Inspect the evidence, choose a response and review your shift. Progress saves in this browser.
+
+## 🔬 Selected lab reports
+
+**[Kioptrix Level 1 · Full assessment](https://github.com/CyberMindHacked/kioptrix-level1-penetration-test#key-findings)**  
+I documented which services were exposed, what an anonymous visitor could learn over SMB, and which HTTP security headers were missing.
+
+**[Kioptrix Level 1.1 · Reconnaissance](https://github.com/CyberMindHacked/kioptrix-level1.1-penetration-test#enumeration-highlights)**  
+I mapped the host’s services, examined its TLS configuration and recorded the evidence behind each observation.
+
+<details>
+<summary><strong>🧰 Tools I used in these labs</strong></summary>
+
+| Task | Tools |
+| --- | --- |
+| Identify hosts and exposed services | Nmap, arp-scan |
+| Inspect web responses and identify technologies | curl, WhatWeb, Nikto |
+| Examine TLS and SMB | OpenSSL, smbclient, Enum4linux |
+
+</details>
+
+## 🧭 What I'm learning
+
+- **Networking** · Follow a request from a DNS lookup through a TCP connection to the HTTP response.
+- **VAPT reporting** · Write findings that connect an observation to evidence, impact and a recommended fix.
+- **Web application testing** · Understand how an app checks which records a signed-in user can read or edit.
+- **Mobile application testing** · Trace how Android permissions affect the data an app can access.
